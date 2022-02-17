@@ -1,2 +1,2 @@
 # Sales Analysis With Pandas And Plotly
-An end to end data preparation and charts creation project with the help of pandas and plotly respectively
+An end to end e-commerce data cleaning , preparation and data visualisation project with the help of pandas and plotly respectively
